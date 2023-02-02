@@ -1,0 +1,34 @@
+# Lab-1_202001188
+### IT314
+### Software Engineering
+
+Student ID: 202001188
+Name: Sanghvi Trusha
+
+Q1. Identify Functional and Non-Functional Requirements:
+
+=> Functional Requirements:
+i) Register - Any non-member of the library can register and make the account
+ii) Login - The library staff and members can login through their account
+iii) Borrow a book - Allows users/members to borrow a book
+iv) Return a book - For users/members to return a book
+v) Extend the date - Allows users/mnembers to extend the date of borrowing (if no other booking for that book has been made)
+vi) New record - Librarian can enter a new record in the system while a new book has been purchased
+vii) Remove a record - Librarian can remove a record in case any book is taken off the shelf
+viii) Browse - Allows non-members to browse/search books online
+
+=> Non-Functional Requirements:
+i) Security - No confidential information (eg., passwords) is stored in plain text.
+ii) Availability - It should run only within the institute LAN.
+iii) Capacity - Should be able to provide service to students, professors and large number of employees
+iv) Environmental - The final deliverable would be in the form of a web application (using the recent HTML 5)
+v) Performance - The system should be capable of day-to-day book transactions
+
+Q2. Identify scope, features and non-functional aspects.
+
+Scope: The mobile application is used for the people who are suffering from disabling hearing loss, to recognize key sound events of interest to this community.
+Features: This application uses artificial intelligence to recognize key sound events of interest and gives immediate alerts to the user. It also provides continual logging for the user.
+Non-functional aspects: 
+i) Compatibility - This app is compatible for android devices.
+ii) Speed - This app has low latency so that it works in real time for use.
+iii) Capacity - This app should be able to provide service to approximately 466 million people (roughly 5% of the world population).
